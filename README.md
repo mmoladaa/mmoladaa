@@ -1,12 +1,12 @@
 <h1 align="center">🇹🇭 Hi, I'm Natlada (Mo) 🧚🏻‍♀️</h1>
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=94DEDB&center=true&vCenter=true&width=435&lines=Computer+Engineering%2C+KMUTT;Crafting+Full-Stack+experiences+%F0%9F%8E%A8;Code+%7C+Create+%7C+Innovate+%E2%9C%A8;From+CompEng+to+Full-Stack+Dreams+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=94DEDB&center=true&vCenter=true&width=435&lines=Computer+Engineering%2C+KMUTT;Crafting+Full-Stack+experiences+%F0%9F%8E%A8;Code+%7C+Create+%7C+Innovate+%E2%9C%A8;Full-Stack+Developer+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ### ✨ About Me
 - 📚 3rd year Computer Engineering student at KMUTT
 - 💻 Aspiring Full-Stack Developer
-- 🌱 Learning and growing in web development
+- 🌱 Learning and growing in web-application development
 
 ### 🛠️ Tech Stack
 <p align="center">
