@@ -29,4 +29,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mmoladaa&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
+### 🌐 My Portfolio
+- [Check out my web portfolio](https://natlada-simasathien-portfolio.vercel.app/)
+
 <p align="center">🙏🏻 Thanks for visiting! 🙏🏻</p>
